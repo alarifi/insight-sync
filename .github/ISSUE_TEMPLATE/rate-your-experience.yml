@@ -1,0 +1,45 @@
+name: "Rate this app | قيّم البرنامج"
+description: "Share your 1–5 star review with INSIGHT Tools | شارك تقييمك من 1 إلى 5"
+title: "[User Review] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for using INSIGHT Tools! Your feedback helps us improve.
+        شكراً لاستخدام برامج INSIGHT Tools. رأيك يساعدنا على التطوير.
+
+        Reviews are PUBLIC on GitHub. Never include passwords, serial numbers, personal data, or sensitive files.
+        التقييمات عامة على GitHub. لا تضع كلمات مرور أو أرقام تراخيص أو بيانات شخصية أو ملفات حساسة.
+  - type: dropdown
+    id: rating
+    attributes:
+      label: "Rating (1–5) | التقييم من 1 إلى 5"
+      options:
+        - "5 - Excellent | ممتاز"
+        - "4 - Good | جيد جداً"
+        - "3 - Average | متوسط"
+        - "2 - Needs improvement | يحتاج إلى تحسين"
+        - "1 - Poor | ضعيف"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "App version | إصدار البرنامج"
+      placeholder: "e.g. 1.0.0"
+    validations:
+      required: false
+  - type: textarea
+    id: likes
+    attributes:
+      label: "What worked well? | ما الذي أعجبك؟"
+      placeholder: "Tell us what you liked / ما المميزات التي أعجبتك؟"
+    validations:
+      required: false
+  - type: textarea
+    id: improvements
+    attributes:
+      label: "What could be improved? | ما الذي يحتاج إلى تحسين؟"
+      placeholder: "Your suggestions / اقتراحاتك"
+    validations:
+      required: false
