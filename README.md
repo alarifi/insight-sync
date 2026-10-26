@@ -118,3 +118,16 @@ Developed and published with pride by **INSIGHT Tools**.
 <div align="center">
   <sub>Copyright © 2026 INSIGHT Tools. All rights reserved.</sub>
 </div>
+
+
+---
+
+## ⭐ Rate This App | قيّم تجربتك
+
+Have you tried **insight-sync**? Please share an honest 1–5 star rating and suggestions to help us improve.
+
+هل جربت البرنامج؟ شارك تقييمك الصادق من 1 إلى 5 نجوم وملاحظاتك لتساعدنا على تطويره.
+
+**[⭐ Rate this app / قيّم البرنامج](https://github.com/alarifi/insight-sync/issues/new?template=rate-your-experience.yml)**
+
+> GitHub sign-in is required. Reviews posted as Issues are public; do not share private information. The GitHub repository Star button is a separate way to show support, not a 1–5 rating.
