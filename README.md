@@ -9,8 +9,8 @@
 [![Version](https://img.shields.io/badge/Version-2.1.7-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/alarifi/insight-sync/releases/tag/v2.1.7)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-00a4ef.svg?style=for-the-badge&logo=windows)](https://github.com/alarifi/insight-sync)
 [![Framework](https://img.shields.io/badge/.NET-8.0%20WPF%20(C%23)-512BD4.svg?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Phone Sync](https://img.shields.io/badge/Mobile-Android%20MTP%20Supported-success.svg?style=for-the-badge&logo=android)](https://www.insight-ye.com)
-[![Publisher](https://img.shields.io/badge/Publisher-INSIGHT%20Tools-8a2be2.svg?style=for-the-badge)](https://www.insight-ye.com)
+[![Phone Sync](https://img.shields.io/badge/Mobile-Android%20MTP%20Supported-success.svg?style=for-the-badge&logo=android)](https://software.insight-ye.com/)
+[![Publisher](https://img.shields.io/badge/Publisher-INSIGHT%20Tools-8a2be2.svg?style=for-the-badge)](https://software.insight-ye.com/)
 
 <p align="center">
   <b>برنامج احترافي فائق السرعة لمزامنة ونسخ آلاف الملفات بلمح البصر، مع دعم المزامنة بين الأقراص والهاردات الخارجية وهواتف الأندرويد والكمبيوتر.</b><br>
@@ -92,7 +92,6 @@
 | الإصدار / الحزمة | نوع الملف | الحجم | الوصف | التحميل المباشر |
 | :--- | :---: | :---: | :--- | :---: |
 | **INSIGHT SYNC Setup v2.1.7** | `.exe` (Installer) | ~4.8 MB | برنامج التثبيت الرسمي لنظام ويندوز مع أيقونات سطح المكتب وقائمة ابدأ | [⬇️ تحميل التثبيت الرسمي (Setup.exe)](https://github.com/alarifi/insight-sync/releases/download/v2.1.7/INSIGHT_SYNC_Setup_v2.1.7.exe) |
-| **INSIGHT SYNC Portable v2.1.7** | `.zip` (Portable) | ~3.3 MB | نسخة محمولة جاهزة للتشغيل الفوري من أي مجلد أو فلاشة USB بدون تثبيت | [⬇️ تحميل النسخة المحمولة (Portable.zip)](https://github.com/alarifi/insight-sync/releases/download/v2.1.7/INSIGHT_SYNC_Portable_v2.1.7.zip) |
 
 ---
 
@@ -109,7 +108,7 @@
 ## 🏢 Publisher & Support | المطور والدعم الفني
 
 Developed and published with pride by **INSIGHT Tools**.
-- **Official Website**: [https://www.insight-ye.com](https://www.insight-ye.com)
+- **Official Website**: [https://software.insight-ye.com/](https://software.insight-ye.com/)
 - **Repository**: [alarifi/insight-sync](https://github.com/alarifi/insight-sync)
 - **Feedback & Issues**: Please report any bugs or submit feature suggestions via GitHub Issues.
 
@@ -131,3 +130,11 @@ Have you tried **insight-sync**? Please share an honest 1–5 star rating and su
 **[⭐ Rate this app / قيّم البرنامج](https://github.com/alarifi/insight-sync/issues/new?template=rate-your-experience.yml)**
 
 > GitHub sign-in is required. Reviews posted as Issues are public; do not share private information. The GitHub repository Star button is a separate way to show support, not a 1–5 rating.
+
+
+---
+
+### Official Insight Software Website & Support | الموقع الرسمي والدعم
+
+- **Software website | موقع البرامج:** https://software.insight-ye.com/
+- **Technical support | الدعم الفني:** [info@insight-ye.com](mailto:info@insight-ye.com)
